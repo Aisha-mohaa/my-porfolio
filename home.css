@@ -53,6 +53,7 @@ body {
 .pr1 {
   padding: 60px 20px;
   background: linear-gradient(to right, #fdfbfb, #ebedee);
+
 }
 
 .welcome-card {
@@ -66,6 +67,7 @@ body {
   opacity: 0;
   animation: fadeSlideUp 1s ease-in-out forwards;
   animation-delay: 0.4s;
+  animation-iteration-count: infinite;
 }
 
 .welcome {
